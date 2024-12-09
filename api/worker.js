@@ -58,7 +58,7 @@ export default {
                         {"text": "To Create Your Own 🔥", "url": "http://t.me/JeffreySama"},
                     ],
                     [
-                        { "text": "💝 Support Us - Donate 🤝", "url": "https://t.me/Auto_Reaction_XrobotBOT?start=donate" }
+                        { "text": "💝 Support Us - Donate 🤝", "url": "https://t.me/Auto_Reaction_Xrobot?start=donate" }
                     ]
 				]
 				);
