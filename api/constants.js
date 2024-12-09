@@ -1,13 +1,13 @@
 export const startMessage = `👋 Hello there, UserName !
 
-Welcome to the *Auto Emoji Reaction Bot 🎉*, ready to sprinkle your conversations with a little extra happiness!
+Welcome to the *Galaxy Auto Emoji Reaction Bot 🎉*, ready to sprinkle your conversations with a little extra happiness!
 
 💁‍♂️ Here's how I spice up your chats:
 
 *✨ DM Magic*: Message me and receive a surprise emoji in return. Expect the unexpected and enjoy the fun!
 *🏖 Group & Channel*: Add me to your groups or channels, and I'll keep the vibe positive by reacting to messages with engaging emojis.
 
-✍️ To view the emojis I can use, simply type /reactions. To create your own auto reaction bot, head over to: [Auto-Reaction-Bot on GitHub](https://github.com/Malith-Rukshan/Auto-Reaction-Bot).
+✍️ To view the emojis I can use, simply type /reactions. To create your own auto reaction bot, head over to: [@GalaxyFlix_Botz on Telegram](https://t.me/JeffreySama).
 
 Let's elevate our conversations with more energy and color! 🚀
 
@@ -22,8 +22,8 @@ export const htmlContent = `
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Telegram Auto Reaction Bot</title>
-<meta name="description" content="Single Developers presents an open-source Telegram Auto Reaction bot developed by Malith-Rukshan. Reacts to all messages received from chats automatically. Serverless deployment on Cloudflare.">
-<meta name="keywords" content="Telegram bot, auto reaction bot, open-source, Single Developers, Malith-Rukshan, Telegram auto reaction, serverless telegram bot, reaction automation">
+<meta name="description" content="GalaxyFlix_Botz presents an open-source Telegram Auto Reaction bot developed by @JeffreySama @Un_Soul. Reacts to all messages received from chats automatically. Serverless deployment on Cloudflare.">
+<meta name="keywords" content="Telegram bot, auto reaction bot, Paid-source, GalaxyFlix_Botz, Weekends Startdust , Telegram auto reaction, serverless telegram bot, reaction automation">
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 <style>
   body, html {
@@ -43,17 +43,17 @@ export const htmlContent = `
 </head>
 <body>
 
-<div class="title">Telegram Auto Reaction Bot 🎉</div>
-<img class="logo" src="https://telegra.ph/file/cb59967120c6bda64580b.jpg">
+<div class="title">Galaxy Auto Reaction Bot 🎉</div>
+<img class="logo" src="https://envs.sh/1oU.jpg">
 
-<button class="button githubBtn" onclick="window.location='https://github.com/Malith-Rukshan/Auto-Reaction-Bot'">Open Source 🌱</button>
+<button class="button githubBtn" onclick="window.location='https://t.me/JeffreySama'">Paid Source 🌱</button>
 
 <div style="margin: 5px;">
-  <a class="github-button" href="https://github.com/Malith-Rukshan/Auto-Reaction-Bot" data-size="large" data-show-count="true">Star</a>
-  <a class="github-button" href="https://github.com/Malith-Rukshan/Auto-Reaction-Bot/fork" data-size="large" data-show-count="true">Fork</a>
+  <a class="github-button" href="https://t.me/JeffreySama" data-size="large" data-show-count="true">Star</a>
+  <a class="github-button" href="https://t.me/JeffreySama" data-size="large" data-show-count="true">Fork</a>
 </div>
 <div>
-  <a class="github-button" href="https://github.com/Malith-Rukshan" data-size="large">Follow @Malith-Rukshan</a>
+  <a class="github-button" href="https://t.me/JeffreySama" data-size="large">Follow @GalaxyFlix_Botz</a>
 </div>
 </body>
 </html>
